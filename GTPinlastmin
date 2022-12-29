@@ -6,7 +6,7 @@ CREATE DATABASE proxy3
 
 # CONTEXT-DATABASE: NOAA_water_database
 
-GTPinlastmin node=proxy3,value=1602589 1669471500
-GTPinlastmin node=proxy3,value=1713603 1669471560
-GTPinlastmin node=proxy3,value=1732581 1669471620
-GTPinlastmin node=proxy3,value=1791003 1669471680
+GTPinlastmin,location=proxy3 water_level=1602589,level\ description="between 6 and 9 feet" 1669471500
+GTPinlastmin,location=proxy3 water_level=1713603,level\ description="between 6 and 9 feet" 1669471560
+GTPinlastmin,location=proxy3 water_level=1732581,level\ description="between 6 and 9 feet" 1669471620
+GTPinlastmin,location=coyote_creek water_level=1791003,level\ description="between 6 and 9 feet" 1669471680
