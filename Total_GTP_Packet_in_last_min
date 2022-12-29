@@ -1,0 +1,23 @@
+# DDL
+
+CREATE DATABASE proxy3
+
+# DML
+
+# CONTEXT-DATABASE: NOAA_water_database
+
+Total_GTP_Packet_in_last_min,node=proxy3 value=1602589 1669471500
+Total_GTP_Packet_in_last_min,node=proxy3 value=1713603 1669471560
+Total_GTP_Packet_in_last_min,node=proxy3 value=1732581 1669471620
+Total_GTP_Packet_in_last_min,node=proxy3 value=1791003 1669471680
+Total_GTP_Packet_in_last_min,node=proxy3 value=1637122 1669471740
+Total_GTP_Packet_in_last_min,node=proxy3 value=1771205 1669471800
+Total_GTP_Packet_in_last_min,node=proxy3 value=1696168 1669471860
+Total_GTP_Packet_in_last_min,node=proxy3 value=1579513 1669471920
+Total_GTP_Packet_in_last_min,node=proxy3 value=1716584 1669471980
+Total_GTP_Packet_in_last_min,node=proxy3 value=1695784 1669472040
+Total_GTP_Packet_in_last_min,node=proxy3 value=1736369 1669472100
+Total_GTP_Packet_in_last_min,node=proxy3 value=1798365 1669472160
+Total_GTP_Packet_in_last_min,node=proxy3 value=1864060 1669472220
+Total_GTP_Packet_in_last_min,node=proxy3 value=1876947 1669472280
+Total_GTP_Packet_in_last_min,node=proxy3 value=1726187 1669472340
