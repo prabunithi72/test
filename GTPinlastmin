@@ -1,0 +1,12 @@
+# DDL
+
+CREATE DATABASE proxy3
+
+# DML
+
+# CONTEXT-DATABASE: NOAA_water_database
+
+GTPinlastmin node=proxy3,value=1602589 1669471500
+GTPinlastmin node=proxy3,value=1713603 1669471560
+GTPinlastmin node=proxy3,value=1732581 1669471620
+GTPinlastmin node=proxy3,value=1791003 1669471680
